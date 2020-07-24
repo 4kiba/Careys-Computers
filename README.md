@@ -15,8 +15,8 @@ Run manager.php to set up the website.</br>
 <img src="https://github.com/JunZheng-dev/Careys-Computers/blob/master/preview/shopcart_preview.png" width="75%"  height="75%"/>
 
 ####  Contributors
-* Benson S.
-* Kaiwei M.
+* https://github.com/shenbenson
+* https://github.com/stardew-devin
 
 ####  Easter Eggs
 * Search "do a barrel roll".
